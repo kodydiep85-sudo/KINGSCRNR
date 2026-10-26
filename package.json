@@ -1,0 +1,14 @@
+{
+  "name": "kings-corner",
+  "version": "3.0.0",
+  "description": "Kings Corner card game: play online with friends or against the computer.",
+  "private": true,
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo \"No build step needed\""
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
